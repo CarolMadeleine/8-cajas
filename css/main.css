@@ -1,0 +1,27 @@
+div{
+	width: 100px;
+	height: 100px;
+	margin: 8px;
+	border: 1px solid black;
+	background-color: #808080;
+	text-align: center;
+}
+
+.dos{
+	width: 380px;
+	height: 120px;
+}
+.primero, .segundo, .tercero{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.tres{
+	display: inline-block;
+}
+.cuatro{
+	display: inline-block;
+}
+
